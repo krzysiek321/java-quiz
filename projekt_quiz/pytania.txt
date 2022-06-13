@@ -1,0 +1,17 @@
+1;Sport;Średni;Kto jest mistrzem świata w Piłce nożnej z 2018 roku?;Brazylia;false;Chorwacja;false;Francja;true;Niemcy;false;KRZYSIEK;
+2;Sport;Średni;Kto jest mistrzem świata w Piłce nożnej z 2014 roku?;Brazylia;false;Argentyna;false;Niemcy;true;Francja;false;KRZYSIEK;
+3;Sport;Średni;Kto jest mistrzem świata w Piłce nożnej z 2010 roku?;Brazylia;false;Holandia;false;Hiszpania;true;Włochy;false;KRZYSIEK;
+4;Sport;Średni;Kto jest mistrzem Europy w Piłce nożnej z 2012 roku?;Portugalia;false;Włochy;false;Hiszpania;true;Niemcy;false;KRZYSIEK;
+5;Sport;Średni;Kto jest mistrzem Europy w Piłce nożnej z 2016 roku?;Portugalia;true;Anglia;false;Francja;false;Niemcy;false;KRZYSIEK;
+6;Sport;Łatwy;Ile najwięcej goli strzelił Robert Lewandowski w Bundeslidze?;35;false;40;false;41;true;43;false;KRZYSIEK;
+7;Sport;Łatwy;Jaki sport uprawia Iga Świątek;Tenis;true;Ping-pong;false;Piłka nożna;false;Badminton;false;KRZYSIEK;
+8;Sport;Łatwy;Jaki sport uprawia Bartosz Zmarzlik;Kolarstwo;false;Żużel;true;motocross;false;Zadna z powyższych;false;KRZYSIEK;
+9;Sport;Łatwy;Czym rzucał Piotr Małachowski;Dyskiem;true;Młotem;false;Oszczepem;false;Nie rzucał niczym;false;KRZYSIEK;
+10;Sport;Łatwy;Kto strzelił najwięcej goli w reprezentacji Polski?;Błaszczykowski;false;Lubański;false;Boniek;false;Lewandowski;true;KRZYSIEK;
+11;Matematyka;Łatwy;2+2*2;4;false;6;true;8;false;16;false;KRZYSIEK;
+12;Sport;Łatwy;Ile minimum trzeba zdobyć punktów, aby wygrać gema w tenisie?;5;false;6;true;7;false;8;false;KRZYSIEK;
+13;Sport;Średni;Jakie dyscypliny uprawiał Adam Małysz;Rajdy samochodowe;true;Skoki narciarskie;true;kombinację norweską;false;Piłka nożną;false;KRZYSIEK;
+14;Sport;Średni;Ile razy Polska wyszła z grupy na ME w latach 2000-2022?;0;false;1;true;2;false;3;false;KRZYSIEK;
+15;Sport;Średni;Ile medali zdobyi Polacy na IO w 2021 roku;14;true;13;false;10;false;16;false;KRZYSIEK;
+16;Matematyka;Średni;Liczbą pierwszą jest?;199;false;201;true;195;false;219675;false;KRZYSIEK;
+17;Matematyka;Średni;2^12 to;4^6;true;4096;true;2048;false;8^3;false;KRZYSIEK;
